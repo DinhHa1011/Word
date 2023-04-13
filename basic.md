@@ -6,3 +6,8 @@
   - version mới tương thích với các version cũ, nếu không có khả năng tương thích ngược, chương trình hoạt động với một bộ xử lý máy tính hoặc hệ điều hành sẽ ngừng hoạt động với version mới
 - `OpenSSL`
   - là một thư viện phần mềm sử dụng các mã nguồn mở để triển khai các giao thức mạng và mã hóa dữ liệu khác nhau như SSL và TLS. OpenSSL được sử dụng trong trường hợp cần xác định phe truyền thống ở phía đầu bên kia hoặc các ứng dụng bảo mật truyền thông qua mạng máy tính để phòng chống nghe trộm
+- `SASL: Simple Authentication and Security Layer`
+  - Lớp xác thực vào bảo mật đơn giản
+  - là một framework cho việc cung cấp 2 dịch vụ cho các protocol hướng kết nối
+    - authentication 
+    - security layer
