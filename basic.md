@@ -1,2 +1,6 @@
-- downgrade attack: tấn công hạ cấp
-  - Là một hình thức tấn công vào hệ thống máy tính hoặc giao thức truyền thông làm cho nó từ bỏ một phương thức hoạt động chất lượng cao 
+- `downgrade attack`
+  - Tấn công hạ cấp
+  - Là một hình thức tấn công vào hệ thống máy tính hoặc giao thức truyền thông làm cho nó từ bỏ một phương thức hoạt động chất lượng cao (ví dụ như kết nối được mã hóa) để dùng một phương thức hoạt động cũ và kém chất lượng hơn thường được cung cấp cho khả năng tương thích ngược
+- `backward compatibility` 
+  - tương thích ngược
+  - version mới tương thích với các version cũ, nếu không có khả năng tương thích ngược, chương trình hoạt động với một bộ xử lý máy tính hoặc hệ điều hành sẽ ngừng hoạt động với version mới
