@@ -1,0 +1,2 @@
+- downgrade attack: tấn công hạ cấp
+  - Là một hình thức tấn công vào hệ thống máy tính hoặc giao thức truyền thông làm cho nó từ bỏ một phương thức hoạt động chất lượng cao 
