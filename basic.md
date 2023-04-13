@@ -11,3 +11,6 @@
   - là một framework cho việc cung cấp 2 dịch vụ cho các protocol hướng kết nối
     - authentication 
     - security layer
+- `DNSSEC`
+  - DNS security
+  - Phần mở rộng bảo mật tên miền, là một tính năng DNS nâng cao thêm một lớp bảo mật phụ cho tên miền bằng cách đính kèm bản ghi chữ số (DS) vào thông tin DNS của chúng
