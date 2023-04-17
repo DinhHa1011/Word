@@ -14,3 +14,16 @@
 - `DNSSEC`
   - DNS security
   - Phần mở rộng bảo mật tên miền, là một tính năng DNS nâng cao thêm một lớp bảo mật phụ cho tên miền bằng cách đính kèm bản ghi chữ số (DS) vào thông tin DNS của chúng
+- `soft bounce`
+  - Message được chuyển đi nhưng không chuyển đến được người nhận vì một số lý do tạm thời
+    + email quá lớn, nội dung quá nặng
+    + hộp thư đến của người nhận bị đầy
+    + máy chủ email quá tải, không hoạt động
+      => cố gắng gửi lại message
+- `hard bounce`
+  - message được chuyển đi nhưng không đến được người nhận vì một số lý do:
+    - domain email không hợp lệ
+    - server nhận không chấp nhận email
+    - địa chỉ email sai
+      => hard bounce cao: giảm uy tín
+      
