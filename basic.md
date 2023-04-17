@@ -19,11 +19,11 @@
     + email quá lớn, nội dung quá nặng
     + hộp thư đến của người nhận bị đầy
     + máy chủ email quá tải, không hoạt động
-      => cố gắng gửi lại message
+      - => cố gắng gửi lại message
 - `hard bounce`
   - message được chuyển đi nhưng không đến được người nhận vì một số lý do:
     - domain email không hợp lệ
     - server nhận không chấp nhận email
     - địa chỉ email sai
-      => hard bounce cao: giảm uy tín
+      - => hard bounce cao: giảm uy tín
       
