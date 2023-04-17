@@ -26,4 +26,7 @@
     - server nhận không chấp nhận email
     - địa chỉ email sai
       - => hard bounce cao: giảm uy tín
-      
+- `cross platform`
+  - là một trong những phương thức điện toán hay phần mềm máy tính được thực hiện song song
+  - cross platform app là một môi trường nền tảng nhiều ứng dụng. Có thể hiểu nôm na là chỉ với 1 bản code, chúng ta có thể phiên dịch và được ứng dụng trên nhiều nền tảng khác, việc này giúp đỡ tốn công và thời gian hơn.
+   
