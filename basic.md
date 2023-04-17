@@ -29,4 +29,7 @@
 - `cross platform`
   - là một trong những phương thức điện toán hay phần mềm máy tính được thực hiện song song
   - cross platform app là một môi trường nền tảng nhiều ứng dụng. Có thể hiểu nôm na là chỉ với 1 bản code, chúng ta có thể phiên dịch và được ứng dụng trên nhiều nền tảng khác, việc này giúp đỡ tốn công và thời gian hơn.
-   
+- `broken padlock email`
+  - hỉnh ảnh ổ khóa hỏng
+  - cảnh báo người dùng về tài khoản không được mã hóa và có thể bị xâm phạm
+
